@@ -1,0 +1,1 @@
+export const TEST_SEARCH_PRODUCTS = "https://germsp.ru/test-search-products";

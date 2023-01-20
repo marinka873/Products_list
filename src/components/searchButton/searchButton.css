@@ -1,0 +1,28 @@
+.search__wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    max-width: 500px;
+    padding: 2% 5%;
+  }
+  
+  .search__input {
+    margin: 20px 0;
+  }
+
+  .error {
+    visibility: hidden;
+  }
+  
+  .active{
+    display: flex;
+    border: 1px solid #FFD0D0;
+    border-radius: 6px;
+    background-color: #FFF7F7;
+    height: 60px;
+  }
+
+  .attention__text{
+    padding: 5% 2%;
+    font-size: 14px;
+  }
